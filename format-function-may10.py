@@ -1,0 +1,8 @@
+name = input("What is your name?")
+age = input("How old are you?")
+Nationality = input("What is your nationality?")
+dob = input("What is your date of birth?")
+colour = input("What is your favourite colour?")
+born = input("Where were you born?")
+print("I am currently {} years old and my name is {}. I am {} and this is my hometown, {}. My favourite colour is {}".format(age, name, nationality, born, colour, career ))
+print("{} is a nice age to be{}".format(age,number))
